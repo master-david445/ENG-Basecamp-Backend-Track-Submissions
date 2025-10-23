@@ -1,0 +1,16 @@
+{
+  "name": "node.js-project",
+  "version": "1.0.0",
+  "description": "My node.js App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Node.js project"
+  },
+  "author": "David Macaulay",
+  "license": "ISC"
+}
