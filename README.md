@@ -25,7 +25,10 @@ const server = http.createServer((req, res) => {
 
 server.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
-});```
+});
+
+
+```
 
 
 ---
@@ -34,7 +37,7 @@ server.listen(PORT, () => {
 
 ## What I Learned
 
-**Through this task, I learned:
+Through this task, I learned:
 
 How to create a simple web server using Node.js’ built-in http module.
 
@@ -44,4 +47,4 @@ How to send plain text responses to the browser.
 
 The basic flow of backend request and response handling in Node.js.
 
-How to debug and test a running Node.js server in a development environment like GitHub Codespaces.**
+How to debug and test a running Node.js server in a development environment like GitHub Codespaces.
